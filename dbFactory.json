@@ -1,0 +1,7 @@
+{
+	"nome": "MachineBrumBrum",
+	"Telephone": 01521673,
+	"Iva": true,
+	"Modelli": ["Ford","Fiat","BMW","Hyundai","Audi"],
+	"FailedCompany": null
+}
